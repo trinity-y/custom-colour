@@ -6,11 +6,11 @@ changes the background and text colour of the windows terminal from hex codes
 
 ### before and after
 
-![custom%20colour%207800d9e20bfe4639a289a9c88b3c77f4/beforecustom.png](custom%20colour%207800d9e20bfe4639a289a9c88b3c77f4/beforecustom.png)
+![beforecustom](https://user-images.githubusercontent.com/32817635/90670132-bca54500-e220-11ea-9a96-83b8fa1ce891.png)
 
 before custom colour - my default pale yellow on black
 
-![custom%20colour%207800d9e20bfe4639a289a9c88b3c77f4/aftercustom.png](custom%20colour%207800d9e20bfe4639a289a9c88b3c77f4/aftercustom.png)
+![aftercustom](https://user-images.githubusercontent.com/32817635/90670134-be6f0880-e220-11ea-877c-73f9c655977e.png)
 
 after custom colour - #ffffff on #c68184
 
